@@ -1,5 +1,5 @@
-function sum(a, b) {]
-    console.log("connetion change:")
+function sum(a, b) {
+    console.log("connetion change:");
     return a + b;
 }
 
